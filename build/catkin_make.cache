@@ -1,0 +1,2 @@
+nodetest:rosa_python:test_py
+-DCATKIN_DEVEL_PREFIX=/home/joongho/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/joongho/catkin_ws/install -G Unix Makefiles

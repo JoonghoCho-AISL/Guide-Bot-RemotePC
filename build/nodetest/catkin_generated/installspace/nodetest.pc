@@ -1,0 +1,8 @@
+prefix=/home/joongho/catkin_ws/install
+
+Name: nodetest
+Description: Description of nodetest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
